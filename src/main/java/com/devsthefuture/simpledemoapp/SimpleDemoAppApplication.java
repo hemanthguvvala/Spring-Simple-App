@@ -5,10 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-/**
- * @EnableAutoConfiguaration
- * @ComponentSca
- */
+
 public class SimpleDemoAppApplication {
 
 	public static void main(String[] args) {
